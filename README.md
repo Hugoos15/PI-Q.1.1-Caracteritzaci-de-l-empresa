@@ -1,6 +1,7 @@
 # H&J Networks
 
 **Hugo Sanchís i Joan Monllor**
+
 **Projecte Intermodular · 2n SMX · Sprint 1 – Bloc 1**
 
 ## Presentació
