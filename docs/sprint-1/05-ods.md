@@ -1,6 +1,6 @@
 # 05. Contribució als Objectius de Desenvolupament Sostenible (ODS)
 
-L'activitat de H&J Networks pot contribuir a diversos Objectius de Desenvolupament Sostenible (ODS) de l'Agenda 2030 de les Nacions Unides.
+L'activitat de H&J Networks pot contribuir a diversos Objectius de Desenvolupament Sostenible de l'Agenda 2030 de les Nacions Unides.
 
 ## ODS 8 – Treball decent i creixement econòmic
 
