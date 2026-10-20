@@ -1,6 +1,6 @@
 # 04. Relació de maquinari i programari
 
-Les quantitats següents corresponen a l'ús intern de H&J Networks. Les llicències de programari es compten per usuari o equip quan correspon; no s'especifiquen marques, models ni preus.
+Les quantitats següents corresponen a l'ús intern de H&J Networks. Les llicències de programari es compten per usuari o equip quan correspon i no s'especifiquen marques, models ni preus.
 
 ## 1. Maquinari
 
