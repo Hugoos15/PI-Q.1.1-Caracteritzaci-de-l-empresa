@@ -30,7 +30,7 @@ Els clients principals són establiments d'hostaleria menuts, normalment amb un 
 
 ## 4. Plantilla i grandària
 
-La plantilla prevista és de **5 persones**: una persona de direcció i administració, una de comercial i atenció al client, dues tècniques de xarxes i una de suport i manteniment. Esta distribució permet atendre diversos clients sense una estructura massa complexa.
+La plantilla prevista és de **5 persones**: una persona de direcció i administració, una de comercial i atenció al client, dues tècniques de xarxes i, per últim, una de suport i manteniment. Esta distribució permet atendre diversos clients sense una estructura massa complexa.
 
 ## 5. Estimació del volum de negoci anual
 
