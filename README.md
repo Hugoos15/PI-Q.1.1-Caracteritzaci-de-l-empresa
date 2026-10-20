@@ -12,9 +12,8 @@ Volem convertir-nos en el soci tecnològic de confiança de la xicoteta hostaler
 
 ## Integrants de l'equip
 
-- [Nom i cognoms de l'integrant 1]
-- [Nom i cognoms de l'integrant 2]
-- [Afegiu la resta d'integrants]
+- Hugo Sanchís Herrero
+- Joan Monllor Francés
 
 ## Documents del Sprint 1
 
@@ -23,5 +22,3 @@ Volem convertir-nos en el soci tecnològic de confiança de la xicoteta hostaler
 3. [Recursos TIC](docs/sprint-1/03-recursos-tic.md)
 4. [Maquinari i programari](docs/sprint-1/04-maquinari-programari.md)
 5. [Contribució als ODS](docs/sprint-1/05-ods.md)
-
-> **Nota:** Les xifres de plantilla, facturació i equipament són estimacions acadèmiques per a una empresa fictícia. Cal revisar-les en equip abans del lliurament.
