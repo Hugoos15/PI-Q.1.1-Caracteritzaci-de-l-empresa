@@ -12,8 +12,8 @@ Volem convertir-nos en el soci tecnològic de confiança de la xicoteta hostaler
 
 ## Integrants de l'equip
 
-- Hugo Sanchís Herrero
-- Joan Monllor Francés
+- **Hugo Sanchís Herrero**
+- **Joan Monllor Francés**
 
 ## Documents del Sprint 1
 
