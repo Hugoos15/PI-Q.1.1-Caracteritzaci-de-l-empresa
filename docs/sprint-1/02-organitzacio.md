@@ -2,7 +2,7 @@
 
 ## 1. Organització general
 
-H&J Networks és una      microempresa de cinc treballadors. Per això, algunes funcions es compartixen i no és necessari crear molts departaments independents.
+H&J Networks és una microempresa de cinc treballadors. Per això, algunes funcions es compartixen i no és necessari crear molts departaments independents.
 
 | Àrea o departament | Treballadors | Funcions principals |
 |---|---:|---|
