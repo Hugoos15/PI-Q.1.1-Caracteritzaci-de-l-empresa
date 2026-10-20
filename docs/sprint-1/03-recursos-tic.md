@@ -14,7 +14,7 @@ En esta fase s'identifiquen els recursos necessaris per al **funcionament intern
 
 ## 2. Servidors i emmagatzematge
 
-Es proposa **un NAS o servidor de fitxers intern (1 unitat)** per a guardar documentació de projectes, plantilles i còpies de seguretat de configuracions. L'accés ha d'estar limitat al personal autoritzat. Es recomana també una còpia addicional protegida fora del dispositiu, perquè un NAS no substituïx per si sol una estratègia de còpies de seguretat.
+Es proposa **un NAS o servidor de fitxers intern** per a guardar documentació de projectes, plantilles i còpies de seguretat de configuracions. L'accés ha d'estar limitat al personal autoritzat. Es recomana també una còpia addicional protegida fora del dispositiu, perquè un NAS no substituïx per si sol una estratègia de còpies de seguretat.
 
 No es considera necessari un servidor web propi en esta primera fase: la pàgina corporativa, si es crea, podria estar allotjada en un servici extern.
 
