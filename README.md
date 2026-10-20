@@ -8,7 +8,7 @@ H&J Networks és una empresa fictícia de València especialitzada en la instal�
 
 ## Visió
 
-Volem convertir-nos en el soci tecnològic de confiança de la xicoteta hostaleria, facilitant xarxes WiFi separades per a clients i personal, connexions estables per a TPV i impressores, i sistemes de videovigilància IP quan siguen necessaris.
+Volem convertir-nos en el soci tecnològic de confiança de la xicoteta hostaleria, facilitant xarxes WiFi separades per a clients i personal, connexions estables per a impresores, i sistemes de videovigilància IP quan siguen necessaris.
 
 ## Integrants de l'equip
 
