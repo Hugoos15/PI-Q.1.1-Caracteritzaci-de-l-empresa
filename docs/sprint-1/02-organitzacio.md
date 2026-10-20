@@ -16,7 +16,7 @@ H&J Networks és una microempresa de cinc treballadors. Per això, algunes funci
 
 ### Direcció i administració (1 persona)
 
-Coordina els projectes, revisa els pressupostos, controla els ingressos i les despeses, tramita factures i organitza el calendari de treball.
+Coordina els projectes, revisa els pressupostos, controla els ingressos, tramita factures i organitza el calendari de treball.
 
 ### Comercial i atenció al client (1 persona)
 
